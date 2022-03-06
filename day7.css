@@ -1,0 +1,79 @@
+h1{
+    text-align:center;
+}
+#label{
+    padding: 10px;
+    margin: 100px;
+    font-weight: bold;
+     
+}
+
+#in{
+    padding: 10px;
+    margin: 50px;
+    width:200px;
+    display: inline;
+}
+#name1{
+    padding: 10px;
+    margin: 100px;
+    font-weight: bold;
+}
+ #name2{
+    padding: 10px;
+    margin: 40px;
+    width:200px;
+ }
+ #email1{
+    padding: 10px;
+    margin: 100px;
+    font-weight: bold;
+ }
+ #email2{
+    padding: 10px;
+    margin: 25px;
+    width:200px;
+
+ }
+ #tele1{
+    padding: 10px;
+    margin: 130px;
+    font-weight: bold;
+ }
+ #tele2{
+    padding: 10px;
+    margin: 15px;
+    width:200px;
+ }
+ #age1{
+    padding:66px;
+    margin: 240px;
+    font-weight: bold;
+    
+ }
+ #age2{
+    padding: 10px;
+    margin: 30px;
+    width:200px;
+ }
+ #button1{
+      width: 50px;
+     padding: 5px;
+     margin: auto;
+ }
+ #button2{
+    width: 50px;
+    padding: 5px;
+    margin: auto;
+    
+ }
+ div{
+     text-align: center;
+ }
+ table{
+    margin: auto;
+ }
+ table,tr,td,th{
+    border: 1px solid black;
+background-color:aqua;
+ }
